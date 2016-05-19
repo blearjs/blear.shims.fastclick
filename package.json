@@ -1,0 +1,38 @@
+{
+  "name": "blear.shims.fastclick",
+  "version": "1.0.0",
+  "description": "fastclick",
+  "scripts": {},
+  "preferGlobal": false,
+  "bin": {},
+  "engines": {
+    "node": ">= 4.0.0",
+    "iojs": ">= 1.0.0"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "blear",
+    "core",
+    "querystring",
+    "cloudcome",
+    "ydr.me"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com",
+    "url": "http://ydr.me"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/blearjs/blear.shims.fastclick",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blearjs/blear.shims.fastclick"
+  },
+  "bugs": {
+    "url": "https://github.com/blearjs/blear.shims.fastclick/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
