@@ -12,8 +12,8 @@
   "main": "src/index.js",
   "keywords": [
     "blear",
-    "core",
-    "querystring",
+    "shims",
+    "fastclick",
     "cloudcome",
     "ydr.me"
   ],
